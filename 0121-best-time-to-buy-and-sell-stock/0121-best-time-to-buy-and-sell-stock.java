@@ -1,10 +1,5 @@
 class Solution {
-    static {
-        Solution sol = new Solution();
-        for (int i = 0; i < 150; i++) {
-            sol.maxProfit(new int[] {1, 2});
-        }
-    }
+    
     public int maxProfit(int[] prices) {
         int min = prices[0];
         int profit = 0;
