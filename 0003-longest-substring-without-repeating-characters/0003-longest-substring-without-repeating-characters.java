@@ -1,10 +1,5 @@
 class Solution {
-    static {
-        Solution sol = new Solution();
-        for(int i = 0; i < 150; i++) {
-            sol.lengthOfLongestSubstring("ab");
-        }
-    }
+    
     public int lengthOfLongestSubstring(String s) {
         if(s == null || s.length() == 0) {
             return 0;
