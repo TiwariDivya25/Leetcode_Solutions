@@ -24,7 +24,7 @@ class Solution {
         cnt2 = 0;
         for(int num : nums) {
             if(num == cand1) cnt1++;
-            if(num == cand2) cnt2++;
+            else if(num == cand2) cnt2++;
         }
         List<Integer> ans = new ArrayList<>();
         if(cnt1 > nums.length/3) ans.add(cand1);
