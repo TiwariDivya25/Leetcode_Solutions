@@ -48,6 +48,7 @@
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
