@@ -70,4 +70,20 @@
 | [0595-big-countries](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0595-big-countries/) | Easy |
 | [1683-invalid-tweets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
