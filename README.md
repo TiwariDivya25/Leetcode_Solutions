@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -96,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
