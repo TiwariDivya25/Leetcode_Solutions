@@ -17,6 +17,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
@@ -39,6 +40,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
