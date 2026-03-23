@@ -52,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
