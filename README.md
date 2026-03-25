@@ -30,6 +30,7 @@
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
