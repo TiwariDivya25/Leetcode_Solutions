@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
