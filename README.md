@@ -62,6 +62,7 @@
 | [1143-longest-common-subsequence](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
