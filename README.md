@@ -71,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Linked List
@@ -155,10 +156,15 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
