@@ -156,6 +156,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0507-perfect-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
