@@ -34,6 +34,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Backtracking
@@ -166,6 +167,7 @@
 | [0507-perfect-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -187,4 +189,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 <!---LeetCode Topics End-->
