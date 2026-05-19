@@ -36,6 +36,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +127,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
