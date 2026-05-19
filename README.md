@@ -34,6 +34,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -68,6 +69,7 @@
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
@@ -153,6 +155,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
