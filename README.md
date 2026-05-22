@@ -41,6 +41,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +214,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
