@@ -71,6 +71,7 @@
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
