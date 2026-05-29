@@ -34,6 +34,7 @@
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -67,6 +68,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -194,6 +196,7 @@
 | [0507-perfect-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -237,4 +240,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
