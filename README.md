@@ -203,6 +203,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
