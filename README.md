@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
