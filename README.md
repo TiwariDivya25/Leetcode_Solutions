@@ -49,6 +49,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Backtracking
@@ -133,6 +134,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +164,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +188,7 @@
 | [2126-destroying-asteroids](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +205,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
