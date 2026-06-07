@@ -43,6 +43,7 @@
 | [2126-destroying-asteroids](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -78,6 +79,7 @@
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -156,6 +158,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -178,6 +181,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
