@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
