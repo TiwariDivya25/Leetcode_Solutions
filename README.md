@@ -174,6 +174,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -232,6 +233,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
