@@ -127,6 +127,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -140,6 +141,7 @@
 | [0027-remove-element](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0086-partition-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
