@@ -56,6 +56,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Backtracking
@@ -109,6 +110,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
