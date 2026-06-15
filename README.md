@@ -67,6 +67,7 @@
 | [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
