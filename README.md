@@ -111,6 +111,7 @@
 | [3110-score-of-a-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
@@ -282,6 +283,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Geometry
