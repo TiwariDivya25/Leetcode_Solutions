@@ -48,6 +48,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -117,6 +118,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [3110-score-of-a-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -238,6 +240,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
