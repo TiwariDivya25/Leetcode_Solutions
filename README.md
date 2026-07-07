@@ -300,6 +300,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3895-count-digit-appearances](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3945-digit-frequency-score/) | Easy |
