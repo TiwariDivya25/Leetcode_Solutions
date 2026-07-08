@@ -39,6 +39,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1476-subrectangle-queries](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -316,6 +317,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [1476-subrectangle-queries](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1476-subrectangle-queries](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
