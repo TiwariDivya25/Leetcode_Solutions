@@ -62,6 +62,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -107,6 +108,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3945-digit-frequency-score/) | Easy |
@@ -215,6 +217,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Tree
@@ -343,6 +346,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -383,6 +387,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
