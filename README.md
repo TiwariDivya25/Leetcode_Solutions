@@ -34,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -245,6 +246,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -351,6 +353,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1476-subrectangle-queries](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Counting
