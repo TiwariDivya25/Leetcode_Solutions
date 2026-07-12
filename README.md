@@ -41,6 +41,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -99,6 +100,7 @@
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -276,6 +278,7 @@
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
