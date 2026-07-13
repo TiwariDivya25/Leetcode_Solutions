@@ -370,6 +370,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
