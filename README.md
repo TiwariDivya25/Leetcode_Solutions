@@ -56,6 +56,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -262,6 +263,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -288,6 +290,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
