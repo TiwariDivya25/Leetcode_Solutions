@@ -28,6 +28,7 @@
 | [0055-jump-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -179,6 +180,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0086-partition-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
