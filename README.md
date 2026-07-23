@@ -126,6 +126,7 @@
 | [0058-length-of-last-word](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -245,6 +246,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
