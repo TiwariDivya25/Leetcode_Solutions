@@ -98,6 +98,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
@@ -124,6 +125,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -287,6 +289,7 @@
 | [0015-3sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
