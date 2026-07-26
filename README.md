@@ -37,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -292,6 +293,7 @@
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -317,6 +319,7 @@
 | [0263-ugly-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
