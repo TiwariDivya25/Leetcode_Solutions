@@ -45,6 +45,7 @@
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -296,6 +297,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -427,4 +429,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
