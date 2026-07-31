@@ -118,6 +118,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -147,6 +148,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -278,6 +280,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -309,6 +312,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -399,6 +403,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
