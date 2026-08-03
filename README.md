@@ -450,4 +450,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
