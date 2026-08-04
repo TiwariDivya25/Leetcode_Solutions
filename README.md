@@ -41,6 +41,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0877-stone-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0916-word-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0916-word-subsets/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -266,6 +267,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -304,6 +306,7 @@
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -416,6 +419,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -424,6 +428,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -445,6 +450,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -458,4 +464,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
