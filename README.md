@@ -212,6 +212,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0050-powx-n](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
