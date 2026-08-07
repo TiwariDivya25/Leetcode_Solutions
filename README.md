@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
