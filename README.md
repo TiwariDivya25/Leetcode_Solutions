@@ -26,6 +26,7 @@
 | [0039-combination-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0055-jump-game/) | Medium |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -139,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -313,6 +316,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
