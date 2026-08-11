@@ -239,6 +239,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -246,6 +247,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Search Tree
@@ -269,6 +271,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
