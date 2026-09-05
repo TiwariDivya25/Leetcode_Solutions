@@ -102,6 +102,7 @@
 | [0046-permutations](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0078-subsets/) | Medium |
+| [0113-path-sum-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -249,6 +250,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -261,6 +263,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -289,6 +292,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
