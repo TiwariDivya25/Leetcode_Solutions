@@ -133,6 +133,7 @@
 | [1512-number-of-good-pairs](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -260,6 +261,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +274,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -304,6 +307,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,6 +502,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariDivya25/Leetcode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
